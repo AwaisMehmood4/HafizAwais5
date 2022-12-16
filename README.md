@@ -5,7 +5,7 @@ Web Developer and Designer
 --------------------------
 
 * 🌍  I'm based in Lahore, Pakistan
-* 🖥️  See my portfolio at [AwaisMahmood](http://https://awais-mahmood.vercel.app/)
+* 🖥️  See my portfolio at [AwaisMahmood](https://awaisdev.co/)
 * ✉️  You can contact me at [awaismahmood4@gmail.com](mailto:awaismahmood4@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on React.js Wordpress Laravel Shopify
